@@ -245,7 +245,7 @@ if(time>=06 && time<=19 ) {
     bg = "sprites/bg.png";
 }
 else{
-    bg  = "sprites/bg2.png";
+    bg  = "sprites/bg2.jpg";
 }
 backgroundImages = loadImage(bg);
 
